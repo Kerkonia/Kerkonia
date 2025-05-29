@@ -116,10 +116,8 @@ cp .env.example .env
 docker-compose up -d --build
 ```
 
-🌐 Accès : [localhost:8080](http://localhost:8080)
-🔐 Admin par défaut : `admin@kerkonia.dev` / `changeme`
 
-➡️ Doc complète bientôt sur **[https://kerkonia.dev](https://kerkonia.dev)**
+➡️ Doc complète bientôt sur **[[https://kerkonia.dev](https://github.com/Kerkonia/Kerkonia/wiki)]([https://kerkonia.dev](https://github.com/Kerkonia/Kerkonia/wiki))**
 
 ---
 
