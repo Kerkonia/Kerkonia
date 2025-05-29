@@ -36,10 +36,8 @@ Kerkonia incarne une vision ambitieuse, communautaire et inclusive :
 
 ## 🪸 Origine du nom et logo
 
-Le nom **Kerkonia** fusionne mes racines **kerkanniennes** (Kerkennah, Tunisie) avec une identité numérique forte.
+Le nom **Kerkonia** fusionne mes racines **kerkanniennes** (Kerkennah) avec une identité numérique forte.
 Le logo représente **un palmier stylisé et une plage** — symboles d’ancrage, de sérénité, mais aussi d’ouverture sur le monde.
-
-Ce projet s’inscrit dans une logique de rayonnement, inspiré par **la harissa**, la chaleur humaine, la culture méditerranéenne. Il est le grand frère technique du projet [PEPRIO](https://pepprio.com), dédié à l’agrégation de plateformes de livraison.
 
 > Kerkonia est une déclaration d'indépendance technologique.
 
